@@ -1,149 +1,263 @@
 <h1 align="center"> HOLA, ESTE ES MI README.md 👋 </h1>
 
+# 👋 Hola, soy Daniel Melendez
+
+🚀 **Ingeniero de Sistemas en formación | FrontEnd & Designer | BackEnd & API Developer | Apasionado por metodologías ágiles y arquitectura de software**
+
+---
+
+## 📌 Sobre mí
+- 🎓 Tecnólogo en Sistemas de Información, estudiante de Ingeniería de Sistemas.  
+- 💻 Enfocado en **desarrollo backend, APIs REST y optimización de software**.  
+- 📚 Experiencia en metodologías **SCRUM y tradicionales**; interesado en **XP y Kanban**.  
+- 🌱 Siempre aprendiendo nuevas tecnologías y arquitecturas.  
+
+---
+
+## 📌 Áreas de Conocimiento
+### 📌 Metodologías
 <!--
-**Danyel3096/Danyel3096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- **Ágiles:** SCRUM (✔) | Kanban (○) | XP (~) | DevOps ()
+- **Tradicionales:** Cascada (✔)
 -->
+### 📌 Roles
 <!--
-[![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
-[![Known Vulnerabilities](https://snyk.io/test/github/dwyl/hapi-auth-jwt2/badge.svg?targetFile=package.json)](https://snyk.io/test/github/dwyl/hapi-auth-jwt2?targetFile=package.json)
-[![codecov.io Code Coverage](https://img.shields.io/codecov/c/github/dwyl/hapi-auth-jwt2.svg?maxAge=2592000)](https://codecov.io/github/dwyl/hapi-auth-jwt2?branch=master)
-[![Code Climate](https://codeclimate.com/github/dwyl/esta/badges/gpa.svg)](https://codeclimate.com/github/dwyl/esta)
-[![NPM Version](https://badge.fury.io/js/esta.svg?style=flat)](https://npmjs.org/package/esta)
-![GitHub CI](https://github.com/dwyl/auth_plug/actions/workflows/ci.yml/badge.svg)
-[![platform][License]][License]
+- **Ágiles:** Dev, 📋 Scrum Master, 🧪 QA
+- **Tradicionales:** ...
+-->
+---
 
-## Table of Contents
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Download](#download)
-- [Author](#author)
-- [License](#license)
-- [Otros Ejemplos](#otros-ejemplos)
-  - [Bloques de códigos](#bloques-de-códigos)
-  - [Resaltar texto](#resaltar-texto)
-  - [Badges](#badges)
-  - [Imagen](#imagen)
+### 📊 Modelado de Datos
+<!--
+- **Tipos de diagramas:** MER, Modelo Relacional, DFD, UML (Clases, Casos de uso), Modelos NoSQL.
+- **Herramientas:**
+  ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+  ![StarUML](https://img.shields.io/badge/StarUML-3776AB?style=for-the-badge&logo=uml&logoColor=white)  
+  ![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
+-->
+<details>
+<summary>Herramientas extra (ver más)</summary>
 
-De acuerdo al espectro de desarrollo...
+SQLDBM, Vertabelo, dbdiagram.io, ERDPlus...
+</details>
 
+<!-- Nota: aquí puedes enlazar un repo con ejemplos de tus diagramas en `/docs/diagramas/` -->
+
+---
+
+### 📝 Recopilación, Documentación y Gestión de tareas
+<!--
+- **Recolección:** Google Forms, Miro, Otter.ai.  
+- **Documentación Técnica:** Notion, GitHub Wiki, Swagger / OpenAPI.
+- **Documentación Requerimientos:** Notion, GitHub Wiki, Swagger / OpenAPI.
+- **Gestión de tareas:** Jira, GitHub Projects, Trello.  
+-->
+<!-- Nota: enlazar repos/docs con plantillas de historias de usuario, criterios de aceptación, matrices de trazabilidad -->
+
+---
+
+### 🏗️ Diseño
+<!--
+- **Herramientas de diseño:** Figma, Draw.io
+- **Diseño visual:** UML, Mockups, Prototipos.
+-->
+<!-- Nota: puedes enlazar un repo con ADRs y diagramas de arquitectura -->
+
+---
+
+### ⚙️ Construcción del software
+<!--
+- **Contenedores / Dev Envs:**  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+  ![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)  
+- **Entornos en la nube:** GitHub Codespaces, Gitpod, Replit.  
+- **IDEs:** Sublime Text, VSCode, PhpStorm, NetBeans IntelliJ IDEA, NetBeans PyCharm, Android Studio
+- 
+**ORMs:**
+ - Eloquent (PHP ✔), Sequelize (Node ▲), SQLAlchemy ~.
+ -->
+<!-- Nota: aquí puedes usar más badges si quieres representar frameworks y ORMs -->
+
+<details>
+<summary>Más ORMs e IDEs (ver lista completa)</summary>
+Eclipse, NetBeans, GoLand, Android Studio, JupyterLab...
+</details>
+
+---
+
+### 💻 Desarrollo de software
+#### 🎨 FrontEnd
+<!--
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)  
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)  
+![SolidJS](https://img.shields.io/badge/SolidJS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white)  
+![Qwik](https://img.shields.io/badge/Qwik-AC7EF4?style=for-the-badge&logo=qwik&logoColor=white)  
+![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=for-the-badge&logo=htmx&logoColor=white)  
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)  
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)  
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)  
+![Lit](https://img.shields.io/badge/Lit-324FFF?style=for-the-badge&logo=lit&logoColor=white)  
+-->
+<details>
+<summary>Frameworks en FrontEnd (ver más)</summary>
+
+React, TailwindCSS, Angular (básico)...
+</details>
+
+##### 🎨 CSS & Frameworks
+<!--
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)  
+-->
+
+<!-- Nota: Enlazar otras librerias como Material UI, Bulma, etc -->
+
+##### 📚 JavaScript Libraries
+<!--
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)  
+![Lodash](https://img.shields.io/badge/Lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=white)  
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)  
+![Day.js](https://img.shields.io/badge/Day.js-FD5F00?style=for-the-badge&logo=dayjs&logoColor=white)  
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)  
+-->
+
+<!-- Nota: Enlazar otras librerias como Unpoly JS, Solid JS, etc -->
+
+##### 🌀 TypeScript & Ecosystem
+<!--
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
+![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)  
+-->
+
+<!-- Nota:  etc -->
+
+##### 🎨 SCSS / SASS
+<!--
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)  
+-->
+<!-- Nota:  etc -->
+
+---
+
+#### ⚙️ BackEnd
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+<!--
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)  
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)  
+-->
+<details>
+<summary>Frameworks en BackEnd (ver más)</summary>
+
+Laravel, Express, FastAPI ~, Spring Boot ○...
+</details>
+
+---
+
+## 🚀 Proyectos Destacados
+<!--
+- [API de Gestión de Tareas](#) → API REST con PHP y MySQL.  
+- [Sistema de Inventarios](#) → Node.js + PostgreSQL.  
+-->
+<!-- Nota: enlazar aquí a repos reales -->
+
+---
+
+## 📊 Stats
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=usuario&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usuario&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=usuario&theme=radical)  
+
+---
+
+## 🎯 Roadmap de Aprendizaje
+<!-- - 🌱 I’m currently learning ... -->
+<details>
+<summary>📊 Modelado · 📝 Requisitos · 🏗️ Arquitectura</summary>
+
+- Vertabelo ○  
+- SQLDBM ~  
+- Microservicios ○  
+- Clean Architecture ○  
+</details>
+
+<details>
+<summary>💻 Desarrollo · ⚙️ Tooling · 🧪 Pruebas</summary>
+
+- Go ~  
+- Rust ○  
+- Docker ▲  
+- Cypress ○  
+- Playwright ○  
+</details>
+
+<details>
+<summary>📦 Dependencias · 🔒 Seguridad</summary>
+
+- Kubernetes ○  
+- Terraform ○  
+- JWT ▲  
+- OWASP ZAP ~  
+</details>
+
+---
+ 
+## 🛠️ Roadmap de Trabajo
+
+<details>
+<summary>🚀 Proyectos en curso</summary>
+
+- API de Gestión de Tareas ▲  
+- Sistema de Inventarios (con CI/CD) ~  
+- Portafolio personal (Next.js + Tailwind) ~  
+</details>
+
+<details>
+<summary>📦 Próximos proyectos</summary>
+
+- App móvil (Flutter) ○  
+- Microservicios con Spring Boot ○  
+- Infraestructura con Kubernetes ○  
+</details>
+
+<details>
+<summary>📑 Documentación & Comunidad</summary>
+
+- Publicar guías de arquitectura ✔  
+- Escribir artículos técnicos en Medium ~  
+- Contribuir a open source ○  
+</details>
+
+---
+<!-- 📫 How to reach me: ... -->
+## 📫 Contáctame
+- ✉️ Email: tuemail@example.com  
+- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
+- 🌍 Portafolio: [github.com/usuario/portfolio](#)  
+- 📝 CV: [Descargar PDF](#)
+
+<!--
+📌 LEYENDA DE PROGRESO
+✔ = Dominado
+▲ = Aplicando en proyectos
+~ = En aprendizaje
+○ = Pendiente / Futuro
+-->
+
+<!--
 ## Core / Núcleo
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://ih1.redbubble.net/image.1637717834.1604/pp,840x830-pad,1000x1000,f8f8f8.u1.jpg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>SCSS
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-  </tr>
-</table>
-
-## IDE - Entorno de desarrollo integrado
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>Android Studio
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>Intellij IDEA
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://ih1.redbubble.net/image.1637717834.1604/pp,840x830-pad,1000x1000,f8f8f8.u1.jpg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>NetBeans
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>SublimeText
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Visual Studio Code
-    </td>
-  </tr>
-</table>
-
-## Frameworks de IU
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>...
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://ih1.redbubble.net/image.1637717834.1604/pp,840x830-pad,1000x1000,f8f8f8.u1.jpg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>...
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>...
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>...
-    </td>
-  </tr>
-</table>
 
 ## Control de versiones
 <table>
@@ -153,30 +267,6 @@ De acuerdo al espectro de desarrollo...
         <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>...
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://ih1.redbubble.net/image.1637717834.1604/pp,840x830-pad,1000x1000,f8f8f8.u1.jpg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>...
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>...
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>...
     </td>
   </tr>
 </table>
@@ -189,30 +279,6 @@ De acuerdo al espectro de desarrollo...
         <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>NPM
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>...
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://ih1.redbubble.net/image.1637717834.1604/pp,840x830-pad,1000x1000,f8f8f8.u1.jpg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>...
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>...
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>...
     </td>
   </tr>
 </table>
@@ -317,197 +383,12 @@ De acuerdo al espectro de desarrollo...
   </tr>
 </table>
 
-## Testing
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>...
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>...
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://ih1.redbubble.net/image.1637717834.1604/pp,840x830-pad,1000x1000,f8f8f8.u1.jpg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>...
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>...
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>...
-    </td>
-  </tr>
-</table>
-
-
-## Lenguajes BackEnd
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>...
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://ih1.redbubble.net/image.1637717834.1604/pp,840x830-pad,1000x1000,f8f8f8.u1.jpg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>Ruby On Rails
-    </td>
-  </tr>
-</table>
-
 ## Bases de datos
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>...
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>...
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://ih1.redbubble.net/image.1637717834.1604/pp,840x830-pad,1000x1000,f8f8f8.u1.jpg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>MariaDB
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>PostgreSQL
-    </td>
-  </tr>
-</table>
-
 ## Author
-Matías Correnti, [@matCorrenti][myTwitter].
+Daniel Melendez Ramirez
 
 ## License
 README is available under the MIT license. See the [LICENSE](LICENSE) file for more info.
-
-
-
-
-## Otros Ejemplos
-
-### Bloques de códigos
-```swift
-func texto(texto: String = "default") {
-  //Comentario
-  let tex: String = "Python syntax highlighting"
-  let tex2: String = texto
-}
-```
-```swift
-let selector = #selector(viewDidLoad)
-view.backgroundColor = .red
-let toView = context.view(forKey: .to)
-let view = UIView(frame: .zero)
-```
-~~~ swift
-let text: String = "Texto"
-~~~
-
-
-### Resaltar texto
-> *Cursiva*
->> **Negrita**
->>> ***Negrita-Cursiva***
-
-(Se puede usar el signo `_` en lugar de `*`).
-
-
-### Badges
-[![AppStore][appStoreBagge]][appStore]
-[![Twitter Follow][twitter]][myTwitter]
-[![TestXc][testXc]][testXc]
-[![CocoapodsDocs][cocoDocs]][cocoDocs]
-[![Tag][tag]][tag]
-[![Release][release]][release]
-[![IssuesOpen][issuesOpen]][issuesOpen]
-[![LicenseGitHub][licenseGitHub]][licenseGitHub]
-[![DowEXTClass][dowEXTClass]][dowEXTClass]
-[![CommitEXT][commitEXT]][commitEXT]
-
-
-### Imagen
-![Imagen de logo][logo]
-
 -->
 
 
-<!-- Links
-[myTwitter]:http://twitter.com/matCorrenti
-[iOS_9.0]:https://img.shields.io/badge/iOS-≥_9.0-5658FE.svg?colorA=5658FE
-[swift_3.0]:https://img.shields.io/badge/Swift-≥_3.0-EF5138.svg?colorA=EF5138
-[xcode_3.2]:https://img.shields.io/badge/Xcode-≥_3.2-2A92F4.svg?colorA=2A92F4
-[Platform]:https://img.shields.io/badge/platform-ios-lightgrey.svg
-[License]:https://img.shields.io/badge/license-MIT-383838.svg
- -->
-
-<!-- Otros
-[appStore]:https://itunes.apple.com/ar/app/luteranos/id1137428395
-[appStoreBagge]:https://img.shields.io/badge/Download_App-Luteranos-1C5FAD.svg
-[twitter]:https://img.shields.io/twitter/follow/matCorrenti.svg?style=social&label=Follow&maxAge=3600
-[testXc]:https://img.shields.io/badge/Xcode-≥_3.2-2A92F4.svg?colorA=0873A4
-[cocoDocs]:https://img.shields.io/cocoapods/metrics/doc-percent/EXTClass.svg
-[tag]:https://img.shields.io/github/tag/Saitco/EXTClass.svg
-[release]:https://img.shields.io/github/release/Saitco/EXTClass.svg
-[issuesOpen]:https://img.shields.io/github/issues/Saitco/README.svg
-[licenseGitHub]:https://img.shields.io/github/license/Saitco/README.svg
-[dowEXTClass]:https://img.shields.io/github/downloads/Saitco/README/total.svg
-[commitEXT]:https://img.shields.io/github/commits-since/Saitco/EXTClass/0.3.2.svg
- -->
-
-<!-- Links Imagenes
-[logo]:https://github.com/Saitco/README/blob/master/img/rosaL.png "Icono de la App"
-
-TOMADO EN BASE A OTROS REPOSITORIOS COMO EJEMPLO
- -->
