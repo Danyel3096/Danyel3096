@@ -33,16 +33,17 @@
 <!--
 - **Tipos de diagramas:** MER, Modelo Relacional, DFD, UML (Clases, Casos de uso), Modelos NoSQL.
 - **Herramientas:**
+  ![StarUML](https://img.shields.io/badge/StarUML-3776AB?style=for-the-badge&logo=uml&logoColor=white)
   ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-  ![StarUML](https://img.shields.io/badge/StarUML-3776AB?style=for-the-badge&logo=uml&logoColor=white)  
   ![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
 -->
+<!--
 <details>
 <summary>Herramientas extra (ver más)</summary>
 
 SQLDBM, Vertabelo, dbdiagram.io, ERDPlus...
 </details>
-
+-->
 <!-- Nota: aquí puedes enlazar un repo con ejemplos de tus diagramas en `/docs/diagramas/` -->
 
 ---
