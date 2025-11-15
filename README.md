@@ -1,8 +1,6 @@
-<h1 align="center"> HOLA, ESTE ES MI README.md 👋 </h1>
+# 👋 Hola, soy Daniel Melendez Ramirez
 
-# 👋 Hola, soy Daniel Melendez
-
-🚀 **Ingeniero de Sistemas en formación | FrontEnd & Designer | BackEnd & API Developer | Apasionado por metodologías ágiles y arquitectura de software**
+🚀 **Ingeniero de Sistemas en formación | FrontEnd & Designer | BackEnd & API Developer | Apasionado por metodologías ágiles, arquitectura de software y análisis de datos**
 
 ---
 
@@ -16,15 +14,19 @@
 
 ## 📌 Áreas de Conocimiento
 ### 📌 Metodologías
-<!--
-- **Ágiles:** SCRUM (✔) | Kanban (○) | XP (~) | DevOps ()
+- **Ágiles:** SCRUM (✔) | Kanban (**~**) | XP (○) | DevOps (○)
 - **Tradicionales:** Cascada (✔)
--->
-### 📌 Roles
 <!--
-- **Ágiles:** Dev, 📋 Scrum Master, 🧪 QA
-- **Tradicionales:** ...
+✔ = Dominado
+▲ = Aplicando en proyectos
+~ = En aprendizaje
+○ = Pendiente / Futuro
 -->
+
+### 📌 Roles
+- **Ágiles:** FrontEnd Developer, BackEnd Developer, 📋 Scrum Master, 🧪 QA
+- **Tradicionales:** Developer
+
 ---
 
 ### 📊 Modelado de Datos
