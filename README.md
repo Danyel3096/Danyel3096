@@ -39,12 +39,12 @@
 
 <details>
 <summary>Herramientas extra (ver más)</summary>
+
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Lucidchart](https://img.shields.io/badge/Lucidchart-F7931E?style=for-the-badge&logo=lucidchart&logoColor=white)
 ![QuickDBD](https://img.shields.io/badge/QuickDBD-4A90E2?style=for-the-badge)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![DbSchema](https://img.shields.io/badge/DbSchema-8A2BE2?style=for-the-badge)
-....
 </details>
 <!-- Nota: aquí puedes enlazar un repo con ejemplos de tus diagramas en `/docs/diagramas/` -->
 
