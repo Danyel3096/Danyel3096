@@ -60,10 +60,31 @@
 <details>
 <summary>Herramientas útiles (ver más)</summary>
 
-- **Recopilación:** Miro / MURAL, Otter.ai / Whisper AI, Dovetail, Maze, Hotjar / Microsoft Clarity, Attlasian Dovico.
-- **Documentación Requerimientos:** Microsoft Word, Google Docs, Attlasian Confluence, Microsoft OneNote.
-- **Documentación Técnica:** Swagger.
-- **Gestión de tareas:** GitHub Projects, Azure....
+- **Recopilación:**
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow)
+![MURAL](https://img.shields.io/badge/MURAL-FF3366?style=for-the-badge&logo=mural&logoColor=white)
+![Otter.ai](https://img.shields.io/badge/Otter.ai-3A84FF?style=for-the-badge&logo=otter.ai&logoColor=white)
+![Whisper AI](https://img.shields.io/badge/Whisper_AI-000000?style=for-the-badge)
+![Dovetail](https://img.shields.io/badge/Dovetail-FFB703?style=for-the-badge)
+![Maze](https://img.shields.io/badge/Maze-101828?style=for-the-badge&logo=maze&logoColor=white)
+![Hotjar](https://img.shields.io/badge/Hotjar-FD3F36?style=for-the-badge&logo=hotjar&logoColor=white)
+![Microsoft Clarity](https://img.shields.io/badge/Microsoft_Clarity-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Atlassian Dovico](https://img.shields.io/badge/Atlassian_Dovico-0052CC?style=for-the-badge)
+
+- **Documentación Requerimientos:**
+ ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
+![Google Docs](https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)
+![Attlasian Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Microsoft OneNote](https://img.shields.io/badge/Microsoft_OneNote-7719AA?style=for-the-badge&logo=microsoftonenote&logoColor=white)
+
+- **Documentación Técnica:**
+ ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+- **Gestión de tareas:**
+![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
+![GitHub Projects](https://img.shields.io/badge/GitHub_Projects-24292E?style=for-the-badge&logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
 
 </details>
 <!-- Nota: enlazar repos/docs con plantillas de historias de usuario, criterios de aceptación, matrices de trazabilidad -->
@@ -71,7 +92,9 @@
 ---
 
 ### 🏗️ Diseño
-- **Herramientas de diseño:** Figma
+- **Herramientas de diseño:**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 - **Tipos de diseño:** Wireframes, Prototipos alta / baja fidelidad.
 
 <details>
@@ -84,8 +107,12 @@
 ---
 
 ### ⚙️ Construcción del software
-- **Entornos locales:** XAMPP, Laragon
-- **Entornos en la nube:** GitHub Codespaces
+- **Entornos locales:**
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white)
+
+- **Entornos en la nube:**
+![GitHub Codespaces](https://img.shields.io/badge/GitHub_Codespaces-24292F?style=for-the-badge&logo=github&logoColor=white)
 
 <details>
 <summary>Más entornos locales y en la nube (ver lista completa)</summary>
@@ -99,13 +126,9 @@ Eclipse, NetBeans, GoLand, Android Studio, JupyterLab...
 
 - **IDEs:** 
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
-
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)
-
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
-
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 
