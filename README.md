@@ -323,9 +323,9 @@ Laravel, Express, FastAPI ~, Spring Boot ○...
 ---
 <!-- 📫 How to reach me: ... -->
 ## 📫 Contáctame
-- ✉️ Email: tuemail@example.com  
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
-- 🌍 Portafolio: [github.com/usuario/portfolio](#)  
+- ✉️ Email: daniel.melendez.ramirez@hotmail.com  
+- 💼 LinkedIn: [linkedin.com/in/daniel-melendez-ramirez](https://linkedin.com/in/daniel-melendez-ramirez)  
+- 🌍 Portafolio: [github.com/Danyel3096/portfolio](#)  
 - 📝 CV: [Descargar PDF](#)
 
 <!--
@@ -335,73 +335,6 @@ Laravel, Express, FastAPI ~, Spring Boot ○...
 ~ = En aprendizaje
 ○ = Pendiente / Futuro
 -->
-
-<!--
-## Core / Núcleo
-
-## Control de versiones
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>Git
-    </td>
-  </tr>
-</table>
-
-## Manejador de paquetes
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>NPM
-    </td>
-  </tr>
-</table>
-
-## Bibliotecas / Librerias / Plugins JS
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>AlertifyJS
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://iconape.com/wp-content/png_logo_vector/flutter-logo.png" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Clockpicker
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>DataTables
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="48" height="48" alt="Python" />
-      </a>
-      <br>DropZoneJS
-    </td>
-  </tr>
-</table>
-
-## Bases de datos
-## Author
-Daniel Melendez Ramirez
 
 ## License
 README is available under the MIT license. See the [LICENSE](LICENSE) file for more info.
