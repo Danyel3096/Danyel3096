@@ -52,10 +52,22 @@
 
 ### 📝 Recopilación, Documentación y Gestión de tareas
 
-- **Recopilación:** Google / Microsoft Forms, Documentos / Diseños, Entrevistas / Grabaciones
-- **Documentación Requerimientos:** Notion, Plane
-- **Documentación Técnica:** Postman, GitHub Wiki
-- **Gestión de tareas:** Attlasian Jira, Attlasian Trello
+- **Recopilación:**
+![Google Forms](https://img.shields.io/badge/Google_Forms-7248B9?style=for-the-badge&logo=googleforms&logoColor=white)
+![Microsoft Forms](https://img.shields.io/badge/Microsoft_Forms-2F74C0?style=for-the-badge&logo=microsoftforms&logoColor=white)
+
+- **Documentación Requerimientos:** Notion
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Plane](https://img.shields.io/badge/Plane.so-0D9488?style=for-the-badge)
+
+- **Documentación Técnica:**
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub Wiki](https://img.shields.io/badge/GitHub_Wiki-24292F?style=for-the-badge&logo=github&logoColor=white)
+
+- **Gestión de tareas:**
+![Atlassian Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Atlassian Trello](https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white)
+
 
 <details>
 <summary>Herramientas útiles (ver más)</summary>
