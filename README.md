@@ -97,7 +97,17 @@
 Eclipse, NetBeans, GoLand, Android Studio, JupyterLab...
 </details>
 
-- **IDEs:** Sublime Text, VSCode, PhpStorm, JetBrains IntelliJ IDEA, JetBrains PyCharm, Android Studio
+- **IDEs:** 
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
+
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)
+
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
 
 <details>
 <summary>Más IDEs (ver lista completa)</summary>
