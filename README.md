@@ -51,12 +51,21 @@
 ---
 
 ### 📝 Recopilación, Documentación y Gestión de tareas
-<!--
-- **Recolección:** Google Forms, Miro, Otter.ai.  
-- **Documentación Técnica:** Notion, GitHub Wiki, Swagger / OpenAPI.
-- **Documentación Requerimientos:** Notion, GitHub Wiki, Swagger / OpenAPI.
-- **Gestión de tareas:** Jira, GitHub Projects, Trello.  
--->
+
+- **Recopilación:** Google / Microsoft Forms, Documentos / Diseños, Entrevistas / Grabaciones.
+- **Documentación Requerimientos:** Microsoft Word, Google Docs, Notion, Plane.
+- **Documentación Técnica:** Postman, GitHub Wiki.
+- **Gestión de tareas:** Attlasian Jira, Attlasian Trello.
+
+<details>
+<summary>Herramientas útiles (ver más)</summary>
+
+- **Recopilación:** Miro / MURAL, Otter.ai / Whisper AI, Dovetail, Maze, Hotjar / Microsoft Clarity, Attlasian Dovico.
+- **Documentación Requerimientos:** Attlasian Confluence, Microsoft OneNote.
+- **Documentación Técnica:** Swagger.
+- **Gestión de tareas:** GitHub Projects, Azure....
+
+</details>
 <!-- Nota: enlazar repos/docs con plantillas de historias de usuario, criterios de aceptación, matrices de trazabilidad -->
 
 ---
@@ -395,5 +404,11 @@ Daniel Melendez Ramirez
 ## License
 README is available under the MIT license. See the [LICENSE](LICENSE) file for more info.
 -->
+<!--
+ENLACES ÚTILES AL FINAL
+https://spec.openapis.org/oas/v3.2.0.html
+https://markdown.es/
+https://docusaurus.io/
 
+-->
 
