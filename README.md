@@ -29,7 +29,7 @@
 
 ---
 
-### 📊 Modelado de Datos
+### 📊 Diagramas y modelado de Datos
 
 - **Tipos de diagramas:** MER, Modelo Relacional, DFD, UML (Clases, Casos de uso), Modelos NoSQL.
 - **Herramientas:**
@@ -52,16 +52,16 @@
 
 ### 📝 Recopilación, Documentación y Gestión de tareas
 
-- **Recopilación:** Google / Microsoft Forms, Documentos / Diseños, Entrevistas / Grabaciones.
-- **Documentación Requerimientos:** Microsoft Word, Google Docs, Notion, Plane.
-- **Documentación Técnica:** Postman, GitHub Wiki.
-- **Gestión de tareas:** Attlasian Jira, Attlasian Trello.
+- **Recopilación:** Google / Microsoft Forms, Documentos / Diseños, Entrevistas / Grabaciones
+- **Documentación Requerimientos:** Notion, Plane
+- **Documentación Técnica:** Postman, GitHub Wiki
+- **Gestión de tareas:** Attlasian Jira, Attlasian Trello
 
 <details>
 <summary>Herramientas útiles (ver más)</summary>
 
 - **Recopilación:** Miro / MURAL, Otter.ai / Whisper AI, Dovetail, Maze, Hotjar / Microsoft Clarity, Attlasian Dovico.
-- **Documentación Requerimientos:** Attlasian Confluence, Microsoft OneNote.
+- **Documentación Requerimientos:** Microsoft Word, Google Docs, Attlasian Confluence, Microsoft OneNote.
 - **Documentación Técnica:** Swagger.
 - **Gestión de tareas:** GitHub Projects, Azure....
 
@@ -71,32 +71,53 @@
 ---
 
 ### 🏗️ Diseño
-<!--
-- **Herramientas de diseño:** Figma, Draw.io
-- **Diseño visual:** UML, Mockups, Prototipos.
--->
+- **Herramientas de diseño:** Figma
+- **Tipos de diseño:** Wireframes, Prototipos alta / baja fidelidad.
+
+<details>
+<summary>Herramientas útiles (ver más)</summary>
+
+- **Tipos de diseño:** Mockups
+</details>
 <!-- Nota: puedes enlazar un repo con ADRs y diagramas de arquitectura -->
 
 ---
 
 ### ⚙️ Construcción del software
-<!--
-- **Contenedores / Dev Envs:**  
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-  ![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)  
-- **Entornos en la nube:** GitHub Codespaces, Gitpod, Replit.  
-- **IDEs:** Sublime Text, VSCode, PhpStorm, NetBeans IntelliJ IDEA, NetBeans PyCharm, Android Studio
-- 
-**ORMs:**
- - Eloquent (PHP ✔), Sequelize (Node ▲), SQLAlchemy ~.
- -->
-<!-- Nota: aquí puedes usar más badges si quieres representar frameworks y ORMs -->
+- **Entornos locales:** XAMPP, Laragon
+- **Entornos en la nube:** GitHub Codespaces
 
 <details>
-<summary>Más ORMs e IDEs (ver lista completa)</summary>
+<summary>Más entornos locales y en la nube (ver lista completa)</summary>
+
+
+- **Entornos en la nube:** Gitpod, Replit
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)  
 Eclipse, NetBeans, GoLand, Android Studio, JupyterLab...
 </details>
 
+- **IDEs:** Sublime Text, VSCode, PhpStorm, JetBrains IntelliJ IDEA, JetBrains PyCharm, Android Studio
+
+<details>
+<summary>Más IDEs (ver lista completa)</summary>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)  
+Eclipse, NetBeans, GoLand, Android Studio, JupyterLab...
+</details>
+
+<!--
+**ORMs:**
+ - Eloquent (PHP ✔), Sequelize (Node ▲), SQLAlchemy ~.
+ --->
+<!-- Nota: aquí puedes usar más badges si quieres representar frameworks y ORMs -->
+<!--
+<details>
+<summary>Más ORMs (ver lista completa)</summary>
+Eclipse, NetBeans, GoLand, Android Studio, JupyterLab...
+</details>
+-->
 ---
 
 ### 💻 Desarrollo de software
