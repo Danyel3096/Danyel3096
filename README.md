@@ -170,6 +170,10 @@ Eclipse, NetBeans, GoLand, Android Studio, JupyterLab...
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
+
+<details>
+<summary>Frameworks en FrontEnd (ver más)</summary>
+
 <!--
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)  
@@ -182,31 +186,41 @@ Eclipse, NetBeans, GoLand, Android Studio, JupyterLab...
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)  
 ![Lit](https://img.shields.io/badge/Lit-324FFF?style=for-the-badge&logo=lit&logoColor=white)  
 -->
-<details>
-<summary>Frameworks en FrontEnd (ver más)</summary>
-
-
 </details>
 
 ##### 🎨 CSS & Frameworks
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+
+<details>
+<summary>Frameworks en FrontEnd (ver más)</summary>
+
 <!--
 ![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)  
 -->
-
+</details>
 <!-- Nota: Enlazar otras librerias como Material UI, Bulma, etc -->
 
 ##### 📚 JavaScript Libraries
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)  
+![DataTables](https://img.shields.io/badge/DataTables-005C99?style=for-the-badge)
+![DropzoneJS](https://img.shields.io/badge/DropzoneJS-0064A5?style=for-the-badge)
+![FullCalendar](https://img.shields.io/badge/FullCalendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)
+![TimelineJS3](https://img.shields.io/badge/TimelineJS3-0A6AA1?style=for-the-badge)
+
+<details>
+<summary>Javascript libraries (ver más)</summary>
+
 <!--
 ![Lodash](https://img.shields.io/badge/Lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=white)  
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)  
 ![Day.js](https://img.shields.io/badge/Day.js-FD5F00?style=for-the-badge&logo=dayjs&logoColor=white)  
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)  
 -->
-
+![OrgChartJS](https://img.shields.io/badge/OrgChartJS-4B5563?style=for-the-badge)
+![PaceJS](https://img.shields.io/badge/PaceJS-EE0000?style=for-the-badge)
+</details>
 <!-- Nota: Enlazar otras librerias como Unpoly JS, Solid JS, etc -->
 
 ##### 🌀 TypeScript & Ecosystem
@@ -229,6 +243,10 @@ Eclipse, NetBeans, GoLand, Android Studio, JupyterLab...
 #### ⚙️ BackEnd
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+
+<details>
+<summary>Frameworks en BackEnd (ver más)</summary>
+
 <!--
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
@@ -238,9 +256,6 @@ Eclipse, NetBeans, GoLand, Android Studio, JupyterLab...
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)  
 -->
-<details>
-<summary>Frameworks en BackEnd (ver más)</summary>
-
 Laravel, Express, FastAPI ~, Spring Boot ○...
 </details>
 
