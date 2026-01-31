@@ -8,7 +8,42 @@
 - 🎓 Tecnólogo en Sistemas de Información, estudiante de Ingeniería de Sistemas.  
 - 💻 Enfocado en **desarrollo backend, APIs REST y optimización de software**.  
 - 📚 Experiencia en metodologías **SCRUM y tradicionales**; interesado en **XP y Kanban**.  
-- 🌱 Siempre aprendiendo nuevas tecnologías y arquitecturas.  
+- 🌱 Siempre aprendiendo nuevas tecnologías y arquitecturas.
+
+**Danyel3096/Danyel3096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- # Hi there! I'm Daniel 👋 ✨
+
+I am a **Systems Engineering student** at Universidad del Valle (Tuluá) and a **Systems Technologist** (Univalle Palmira). I specialize in **Fullstack Web Development** with a growing interest in **Data Analysis**. I believe in technology as a tool for social inclusion and efficiency.
+
+### 🔭 I’m currently working on
+- My **Engineering Graduation Project**: A learning platform to teach **Python** to people with visual and hearing disabilities. 
+- Developing scalable web solutions using modern stacks.
+
+### 🌱 I’m currently learning
+- Advanced **Data Analysis** and Visualization.
+- Accessibility standards (WCAG) to make the web more inclusive.
+- Improving my English for professional environments.
+- Expanding my expertise in Business Intelligence (BI) using Power BI to transform complex data into actionable insights and strategic dashboards
+
+### 👯 I’m looking to collaborate on
+- **Open Source projects** that focus on accessibility (A11y) or social impact.
+- Educational tools for underprivileged communities.
+- Work teams with high motivation to learn, work as a team and add value from their role
+
+### 💬 Ask me about
+- **Web Development**: Frontend and Backend integration.
+- **Python**: My favorite tool for teaching and automation.
+- **Social Impact Tech**: How we can build a more inclusive digital world.
+
+### 📫 How to reach me
+- **LinkedIn**: [Tu perfil aquí]
+- **Location**: Palmira, Valle del Cauca, Colombia 🇨🇴
+
+### ⚡ Fun fact
+- **Always Ready!** I was a member of the **Scout Group 601 Mafeking**. The Scout law and promise are my North Star, not just in life, but in how I write clean, ethical, and collaborative code. ⚜️
 
 ---
 
