@@ -31,9 +31,12 @@ I am a **Systems Engineering student** at Universidad del Valle (Tuluá) and a *
 - **Python**: Mi herramienta favorita para la enseñanza y la automatización.
 - **Tecnología de impacto social**: Cómo podemos construir un mundo digital más inclusivo.
 
-### 📫 How to reach me
-- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-melendez-ramirez/)
+### 📫 Cómo llegar a mí
+- ✉️ Correo electrónico: daniel.melendez.ramirez@hotmail.com  
+- 💼 Perfil en LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-melendez-ramirez/)
 - **Ubicación**: Valle del Cauca, Colombia 🇨🇴
+<!-- - 🌍 Portafolio: [github.com/Danyel3096/portfolio](#)  -->
+<!-- - 📝 CV: [Descargar PDF](#) -->
 
 ### ⚡ Dato curioso
 - **¡Siempre listos!** Mi paso por el Grupo Scout 601 Mafeking es mi norte. La ley y la promesa Scout no son solo un recuerdo, son la base de cómo escribo código: de forma ética, colaborativa y transparente. ⚜️
@@ -293,20 +296,6 @@ I am a **Systems Engineering student** at Universidad del Valle (Tuluá) and a *
 </details>
 
 ---
-<!-- 📫 How to reach me: ... -->
-## 📫 Contáctame
-- ✉️ Email: daniel.melendez.ramirez@hotmail.com  
-- 💼 LinkedIn: [linkedin.com/in/daniel-melendez-ramirez](https://linkedin.com/in/daniel-melendez-ramirez)  
-- 🌍 Portafolio: [github.com/Danyel3096/portfolio](#)  
-- 📝 CV: [Descargar PDF](#)
-
-<!--
-📌 LEYENDA DE PROGRESO
-✔ = Dominado
-▲ = Aplicando en proyectos
-~ = En aprendizaje
-○ = Pendiente / Futuro
--->
 
 ## License
 README is available under the MIT license. See the [LICENSE](LICENSE) file for more info.
