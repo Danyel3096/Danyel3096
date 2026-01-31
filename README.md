@@ -33,7 +33,7 @@ I am a **Systems Engineering student** at Universidad del Valle (Tuluá) and a *
 
 ### 📫 How to reach me
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-melendez-ramirez/)
-- **Location**: Palmira, Valle del Cauca, Colombia 🇨🇴
+- **Ubicación**: Valle del Cauca, Colombia 🇨🇴
 
 ### ⚡ Dato curioso
 - **¡Siempre listos!** Mi paso por el Grupo Scout 601 Mafeking es mi norte. La ley y la promesa Scout no son solo un recuerdo, son la base de cómo escribo código: de forma ética, colaborativa y transparente. ⚜️
