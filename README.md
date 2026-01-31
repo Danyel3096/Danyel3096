@@ -1,4 +1,4 @@
-# 👋 Hola, soy Daniel Melendez Ramirez (BETA - IN CONSTRUCTION)
+# 👋 Hola, soy Daniel Melendez Ramirez
 
 🚀 **Ingeniero de Sistemas en formación | FrontEnd & Designer | BackEnd & API Developer | Apasionado por metodologías ágiles, arquitectura de software y análisis de datos**
 
@@ -10,40 +10,33 @@
 - 📚 Experiencia en metodologías **SCRUM y tradicionales**; interesado en **XP y Kanban**.  
 - 🌱 Siempre aprendiendo nuevas tecnologías y arquitecturas.
 
-**Danyel3096/Danyel3096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- # Hi there! I'm Daniel 👋 ✨
-
 I am a **Systems Engineering student** at Universidad del Valle (Tuluá) and a **Systems Technologist** (Univalle Palmira). I specialize in **Fullstack Web Development** with a growing interest in **Data Analysis**. I believe in technology as a tool for social inclusion and efficiency.
 
-### 🔭 I’m currently working on
-- My **Engineering Graduation Project**: A learning platform to teach **Python** to people with visual and hearing disabilities. 
-- Developing scalable web solutions using modern stacks.
+### 🔭 Actualmente trabajando en
+- Proyecto de Grado (Ingeniería): Una plataforma estilo "Duolingo" para la enseñanza de Python adaptada a personas con discapacidad visual y auditiva.
+- Desarrollo de aplicaciones web modernas buscando siempre las mejores prácticas de código limpio.
 
-### 🌱 I’m currently learning
-- Advanced **Data Analysis** and Visualization.
-- Accessibility standards (WCAG) to make the web more inclusive.
-- Improving my English for professional environments.
-- Expanding my expertise in Business Intelligence (BI) using Power BI to transform complex data into actionable insights and strategic dashboards
+### 🌱 Aprendiendo y mejorando
+- Business Intelligence (BI): Dominando Power BI para transformar datos complejos en tableros de control (dashboards) que faciliten la toma de decisiones estratégicas.
+- Análisis de Datos: Perfeccionando técnicas de visualización y limpieza de datos.
+- Inglés Profesional: Fortaleciendo mis habilidades de comunicación para entornos globales.
 
-### 👯 I’m looking to collaborate on
-- **Open Source projects** that focus on accessibility (A11y) or social impact.
-- Educational tools for underprivileged communities.
-- Work teams with high motivation to learn, work as a team and add value from their role
+### 👯 Busco colaborar en
+- Proyectos de Código Abierto con enfoque social o de accesibilidad (A11y).
+- Equipos de alto rendimiento que busquen generar riqueza y eficiencia a través de la tecnología, reduciendo también el impacto ambiental.
+- Iniciativas que promuevan la educación tecnológica en comunidades vulnerables.
 
-### 💬 Ask me about
-- **Web Development**: Frontend and Backend integration.
-- **Python**: My favorite tool for teaching and automation.
-- **Social Impact Tech**: How we can build a more inclusive digital world.
+### 💬 Pregúntame sobre
+- **Desarrollo web**: Integración frontend y backend.
+- **Python**: Mi herramienta favorita para la enseñanza y la automatización.
+- **Tecnología de impacto social**: Cómo podemos construir un mundo digital más inclusivo.
 
 ### 📫 How to reach me
-- **LinkedIn**: [Tu perfil aquí]
+- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-melendez-ramirez/)
 - **Location**: Palmira, Valle del Cauca, Colombia 🇨🇴
 
-### ⚡ Fun fact
-- **Always Ready!** I was a member of the **Scout Group 601 Mafeking**. The Scout law and promise are my North Star, not just in life, but in how I write clean, ethical, and collaborative code. ⚜️
+### ⚡ Dato curioso
+- **¡Siempre listos!** Mi paso por el Grupo Scout 601 Mafeking es mi norte. La ley y la promesa Scout no son solo un recuerdo, son la base de cómo escribo código: de forma ética, colaborativa y transparente. ⚜️
 
 ---
 
