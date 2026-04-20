@@ -219,7 +219,7 @@ I am a **Systems Engineering student** at Universidad del Valle (Tuluá) and a *
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
 ---
-
+<!-- 
 ## 🚀 Proyectos Destacados
 - **API de Gestión de Tareas** ▲  
   API REST con PHP y MySQL.  
@@ -232,6 +232,7 @@ I am a **Systems Engineering student** at Universidad del Valle (Tuluá) and a *
 > 🔗 Próximamente: repositorios públicos
 
 ---
+-->
 
 ## 📊 Stats
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danyel3096&show_icons=true&theme=radical)  
