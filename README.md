@@ -35,7 +35,8 @@ I am a **Systems Engineering student** at Universidad del Valle (Tuluá) and a *
 
 ### 📫 Cómo llegar a mí
 - ✉️ Correo electrónico: daniel.melendez.ramirez@hotmail.com  
-- 💼 Perfil en LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-melendez-ramirez/)
+- 💼 Perfil en LinkedIn: [linkedin.com/in/daniel-melendez-ramirez/](https://www.linkedin.com/in/daniel-melendez-ramirez/)
+<!-- - 💼 Perfil en LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-melendez-ramirez/) -->
 - **Ubicación**: Valle del Cauca, Colombia 🇨🇴
 - 🌍 Portafolio: [github.com/Danyel3096/portfolio](https://github.com/Danyel3096/portfolio) 
 <!-- - 📝 CV: [Descargar PDF](#) -->
