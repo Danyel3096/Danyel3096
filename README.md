@@ -13,8 +13,9 @@
 I am a **Systems Engineering student** at Universidad del Valle (Tuluá) and a **Systems Technologist** (Univalle Palmira). I specialize in **Fullstack Web Development** with a growing interest in **Data Analysis**. I believe in technology as a tool for social inclusion and efficiency.
 
 ### 🔭 Actualmente trabajando en
-- Proyecto de Grado (Ingeniería): Una plataforma estilo "Duolingo" para la enseñanza de Python adaptada a personas con discapacidad visual y auditiva.
+- Proyecto de Grado (Ingeniería): Una plataforma de aprendizaje para la enseñanza de Python dirigida a personas con capacidad visual y auditiva reducidas.
 - Desarrollo de aplicaciones web modernas buscando siempre las mejores prácticas de código limpio.
+- Proyectos para la analítica de datos.
 
 ### 🌱 Aprendiendo y mejorando
 - Business Intelligence (BI): Dominando Power BI para transformar datos complejos en tableros de control (dashboards) que faciliten la toma de decisiones estratégicas.
@@ -27,7 +28,7 @@ I am a **Systems Engineering student** at Universidad del Valle (Tuluá) and a *
 - Iniciativas que promuevan la educación tecnológica en comunidades vulnerables.
 
 ### 💬 Pregúntame sobre
-- **Desarrollo web**: Integración frontend y backend.
+- **Desarrollo web**: Análisis de datos. Integración frontend y backend.
 - **Python**: Mi herramienta favorita para la enseñanza y la automatización.
 - **Tecnología de impacto social**: Cómo podemos construir un mundo digital más inclusivo.
 
@@ -292,7 +293,7 @@ I am a **Systems Engineering student** at Universidad del Valle (Tuluá) and a *
 
 - Publicar guías de arquitectura ✔  
 - Escribir artículos técnicos en Medium ~  
-- Contribuir a open source ○  
+- Contribuir a open source ○
 </details>
 
 ---
