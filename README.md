@@ -1,34 +1,35 @@
 # 👋 Hola, soy Daniel Melendez Ramirez
 
-🚀 **Ingeniero de Sistemas en formación | FrontEnd & Designer | BackEnd & API Developer | Apasionado por metodologías ágiles, arquitectura de software y análisis de datos**
+🚀 **Ingeniero de Sistemas en formación | Data Analyst | FrontEnd & Designer | BackEnd & API Developer | Apasionado por metodologías ágiles, arquitectura de software y análisis de datos**
 
 ---
 
 ## 📌 Sobre mí
 - 🎓 Tecnólogo en Sistemas de Información, estudiante de Ingeniería de Sistemas.  
 - 💻 Enfocado en **desarrollo backend, APIs REST y optimización de software**.  
-- 📚 Experiencia en metodologías **SCRUM y tradicionales**; interesado en **XP y Kanban**.  
+- 📚 Experiencia en metodologías ágiles **SCRUM** y **Kanban** y metodologías tradicionales **cascada**; interesado en **XP**.  
 - 🌱 Siempre aprendiendo nuevas tecnologías y arquitecturas.
 
 I am a **Systems Engineering student** at Universidad del Valle (Tuluá) and a **Systems Technologist** (Univalle Palmira). I specialize in **Fullstack Web Development** with a growing interest in **Data Analysis**. I believe in technology as a tool for social inclusion and efficiency.
 
 ### 🔭 Actualmente trabajando en
-- Proyecto de Grado (Ingeniería): Una plataforma de aprendizaje para la enseñanza de Python dirigida a personas con capacidad visual y auditiva reducidas.
-- Desarrollo de aplicaciones web modernas buscando siempre las mejores prácticas de código limpio.
-- Proyectos para la analítica de datos.
+- **Proyecto de Grado (Ingeniería):** Una plataforma de aprendizaje para la enseñanza de Python dirigida a personas con capacidad visual y auditiva reducidas.
+- **Proyectos para la analítica de datos:** Creación de dashboards interactivos utilizando Microsoft Power Bi y Tableau Public.
+<!-- - Desarrollo de aplicaciones web modernas buscando siempre las mejores prácticas de código limpio. -->
 
 ### 🌱 Aprendiendo y mejorando
-- Business Intelligence (BI): Dominando Power BI para transformar datos complejos en tableros de control (dashboards) que faciliten la toma de decisiones estratégicas.
-- Análisis de Datos: Perfeccionando técnicas de visualización y limpieza de datos.
-- Inglés Profesional: Fortaleciendo mis habilidades de comunicación para entornos globales.
+- **Business Intelligence (BI):** Dominando Power BI para transformar datos complejos en tableros de control (dashboards) que faciliten la toma de decisiones estratégicas.
+- **Análisis de Datos:** Perfeccionando técnicas de visualización y limpieza de datos.
+- **Inglés Profesional:** Fortaleciendo mis habilidades de comunicación para entornos globales.
 
 ### 👯 Busco colaborar en
-- Proyectos de Código Abierto con enfoque social o de accesibilidad (A11y).
 - Equipos de alto rendimiento que busquen generar riqueza y eficiencia a través de la tecnología, reduciendo también el impacto ambiental.
 - Iniciativas que promuevan la educación tecnológica en comunidades vulnerables.
+- Proyectos de Código Abierto con enfoque social o de accesibilidad (A11y).
 
 ### 💬 Pregúntame sobre
-- **Desarrollo web**: Análisis de datos. Integración frontend y backend.
+- **Análisis de datos:** Decisiones basadas en datos.
+- **Desarrollo web**: Integración frontend y backend.
 - **Python**: Mi herramienta favorita para la enseñanza y la automatización.
 - **Tecnología de impacto social**: Cómo podemos construir un mundo digital más inclusivo.
 
@@ -36,7 +37,7 @@ I am a **Systems Engineering student** at Universidad del Valle (Tuluá) and a *
 - ✉️ Correo electrónico: daniel.melendez.ramirez@hotmail.com  
 - 💼 Perfil en LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-melendez-ramirez/)
 - **Ubicación**: Valle del Cauca, Colombia 🇨🇴
-<!-- - 🌍 Portafolio: [github.com/Danyel3096/portfolio](#)  -->
+- 🌍 Portafolio: [github.com/Danyel3096/portfolio](https://github.com/Danyel3096/portfolio) 
 <!-- - 📝 CV: [Descargar PDF](#) -->
 
 ### ⚡ Dato curioso
@@ -87,7 +88,7 @@ I am a **Systems Engineering student** at Universidad del Valle (Tuluá) and a *
 - **Diagramas funcionales y de software:** UML
 - **Modelado de datos:** MER, MRD, NoSQL (documentos / colecciones)
 
-- **Herramientas:**  
+- **Herramientas:**
   ![StarUML](https://img.shields.io/badge/StarUML-3776AB?style=for-the-badge&logo=uml&logoColor=white)
   ![dbdiagram.io](https://img.shields.io/badge/dbdiagram.io-1A73E8?style=for-the-badge)
   ![Diagrams.net](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
@@ -198,12 +199,12 @@ I am a **Systems Engineering student** at Universidad del Valle (Tuluá) and a *
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 
 ##### 🎨 CSS & Frameworks
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ##### 📚 Librerias de JavaScript
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)  
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![DataTables](https://img.shields.io/badge/DataTables-005C99?style=for-the-badge)
 ![DropzoneJS](https://img.shields.io/badge/DropzoneJS-0064A5?style=for-the-badge)
 ![FullCalendar](https://img.shields.io/badge/FullCalendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white)
@@ -212,8 +213,8 @@ I am a **Systems Engineering student** at Universidad del Valle (Tuluá) and a *
 ---
 
 #### ⚙️ BackEnd
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
 ---
