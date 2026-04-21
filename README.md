@@ -42,7 +42,7 @@ I am a **Systems Engineering student** at Universidad del Valle (Tuluá) and a *
 <!-- - 📝 CV: [Descargar PDF](#) -->
 
 ### ⚡ Dato curioso
-- **¡Siempre listos!** Mi paso por el Grupo Scout 601 Mafeking es mi norte. La ley y la promesa Scout no son solo un recuerdo, son la base de cómo escribo código: de forma ética, colaborativa y transparente. ⚜️
+- **¡Siempre listos!** Mi paso por el Movimiento Scout es mi norte. La ley y la promesa Scout no son solo un recuerdo, son la base de cómo escribo código: de forma ética, colaborativa y transparente. ⚜️
 
 ---
 
